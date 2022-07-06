@@ -7,11 +7,15 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    font-weight: 700;
+}
+
 .width {
     width: 100%;
 }
 
-img {
+.container img {
     opacity: 0.8;
 
 }
@@ -82,4 +86,9 @@ img {
     margin-left: 10px;
     margin-right: 40px;
     border-radius: 10px;
+}
+
+.flexible-container img {
+    padding-top: 40px;
+
 }
