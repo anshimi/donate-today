@@ -1,0 +1,38 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.width {
+    width: 100%;
+}
+
+img {
+    opacity: 0.8;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
