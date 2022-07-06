@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .width {
@@ -13,6 +13,7 @@ h1 {
 
 img {
     opacity: 0.8;
+
 }
 
 .container {
@@ -35,4 +36,50 @@ img {
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+}
+
+.text-decor {
+    text-align: center;
+    color: black;
+    font-weight: 700;
+}
+
+.container p {
+    padding-bottom: 20px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.onethird-width {
+    width: 33%;
+
+}
+
+#food {
+    background-color: rgb(231, 247, 247);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 40px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#shelter {
+    background-color: rgb(245, 221, 225);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#education {
+    background-color: rgb(246, 246, 234);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 40px;
+    border-radius: 10px;
 }
