@@ -18,8 +18,6 @@ h2 {
 
 .container img {
     opacity: 0.8;
-
-
 }
 
 .container {
@@ -53,6 +51,23 @@ h2 {
 
 .container p {
     padding-bottom: 20px;
+}
+
+.list-donate {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+li {
+    display: inline;
+    padding: 20px 10px;
+    margin-left: 20px;
+
+}
+
+#amount-200 {
+    color: tomato;
+
 }
 
 .flexible-container {
